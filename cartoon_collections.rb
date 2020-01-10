@@ -30,7 +30,4 @@ def find_the_cheese(potentially_cheesy_items)
   end
 end
 
-  find_the_cheese(potentially_cheesy_items)
-
-  cheese_types = ["cheddar", "gouda", "camembert"]
-end
+find_the_cheese(potentially_cheesy_items)
